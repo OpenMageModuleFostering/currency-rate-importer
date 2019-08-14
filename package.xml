@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>currency-rate-importer</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Currency rate importer</summary>
+    <description>Uses Yahoo Finance to import currency rates for magento store</description>
+    <notes>First stable release</notes>
+    <authors><author><name>Tarun Mukherjee</name><user>tmukherjee13</user><email>tmukherjee13@gmail.com</email></author></authors>
+    <date>2014-02-12</date>
+    <time>18:19:34</time>
+    <contents><target name="magelocal"><dir><dir name="Escoin"><dir name="Directory"><dir name="Model"><dir name="Currency"><dir name="Import"><file name="Yahoofinance.php" hash="832145853c8c9cc7ef0869a94dc87e75"/></dir></dir></dir><dir name="etc"><file name="config.xml" hash="006f6d548d24fec08fdb1511bb38f65e"/></dir></dir></dir></dir></target><target name="mageetc"><dir><dir name="modules"><file name="Escoin_Directory.xml" hash="4e3ec626caa7ca70f1ca94875535c112"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
