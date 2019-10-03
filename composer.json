@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/currency-rate-importer",
+    "name": "OpenMageModuleFostering\/currency-rate-importer",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Currency rate importer",
     "authors": [
-    {
-        "name": "Tarun Mukherjee",
-        "email": "tmukherjee13@gmail.com"
-    }
-],
+        {
+            "name": "Tarun Mukherjee",
+            "email": "tmukherjee13@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
