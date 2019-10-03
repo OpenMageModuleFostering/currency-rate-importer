@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/currency-rate-importer",
+    "name": "openmage-module-fostering\/currency-rate-importer",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Currency rate importer",
     "authors": [
